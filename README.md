@@ -6,7 +6,7 @@
 
 I made a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, we can create our own quiz for other people to enjoy!
 
-https://github.com/shagun25/Quizzler_App/blob/master/Quizzler.gif
+![Finished App](https://github.com/shagun25/Quizzler_App/blob/master/Quizzler.gif)
 
 ## What i have learned
 
